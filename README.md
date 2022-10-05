@@ -1,3 +1,1 @@
-﻿# git-practice
-
-## Just a test
+# Small Projects with C/C++
