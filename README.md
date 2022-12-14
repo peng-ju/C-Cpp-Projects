@@ -1,1 +1,2 @@
-# Small Projects with C/C++
+# Projects with C
+
